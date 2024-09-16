@@ -1,4 +1,4 @@
-# MLops_Assignment1_Group35
+# MLops_Assignment2_Group35
 
 ## Group Number - 35
 
