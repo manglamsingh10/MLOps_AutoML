@@ -1,12 +1,4 @@
-# MLops_Assignment2_Group35
-
-## Group Number - 35
-
-* Manglam Kumar (2022ac05260)
-* Saurabh Kumar (2022ac05293)
-* Rajiv Kumar (2022ac05147)
-* Neeraj Kumar (2022ac05468)
-* Krishna Kumar v (2022ac05373)
+# MLops AutoML
 
 ## Description
 
@@ -55,8 +47,4 @@ See [commit change](https://github.com/manglamsingh10/MLOps_Assignment_2/commits
 
 #### Contributors names and contact info
 
-* Manglam Kumar (2022ac05260)
-* Saurabh Kumar (2022ac05293)
-* Rajiv Kumar (2022ac05147)
-* Neeraj Kumar (2022ac05468)
-* Krishna Kumar v (2022ac05373)
+* Manglam Kumar (manglamsingh10@gmail.com)
